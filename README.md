@@ -15,4 +15,4 @@
                                                                                                           
 ```
 
-## Repositorio principal para actividades practicas de la materia
+## Repositorio principal para actividades prácticas de la materia
